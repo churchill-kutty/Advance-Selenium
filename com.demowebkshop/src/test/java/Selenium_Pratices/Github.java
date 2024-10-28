@@ -10,5 +10,6 @@ public class Github {
 	@Test
 	public void tesecase() {
 		Reporter.log("This Class is Githud Class",true);
+		Reporter.log("This Class is Githud Class",true);
 	}
 }
